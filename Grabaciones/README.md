@@ -1,2 +1,2 @@
 # Grabaciones
-Aquí se encuentran los 8 videos analizados así como la carpetas con los resultados que se extrajeron del procesamiento de los mismos.
+En breve se colocará aquí un link a los 8 videos analizados. Arriba se puede acceder a las carpetas con los resultados comprimidos que se extrajeron del procesamiento de los videos.
